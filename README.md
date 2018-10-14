@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto Mark7
 ## Gerenciador de Tarefas
 
@@ -10,3 +11,7 @@
 * Finalizar Tarefa
 
 ## Sprint 1 > Login
+=======
+# mark7
+Cucumber
+>>>>>>> origin/master
